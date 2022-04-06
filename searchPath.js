@@ -86,5 +86,8 @@ var searchPath = [
   'files/pages/frame/login/agreement.md',
   'files/pages/frame/login/readme.md',
   'files/pages/frame/loginRedirect/readme.md',
+  'files/pages_demo/_components-moon/moon-echarts/Readme.md',
   'files/pages/frame/user/change-password/readme.md',
+  'files/pages_demo/_components-moon/moon-echarts/moon-echarts-app-h5/Readme.md',
+  'files/pages_demo/_components-moon/moon-echarts/moon-echarts-wx/Readme.md'
 ]
