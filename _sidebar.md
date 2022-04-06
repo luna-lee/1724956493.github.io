@@ -81,6 +81,10 @@
   * * [**open-wx**](files/pages_common/open-wx/readme.md) 
   * * [**rich-editor**](files/pages_common/rich-editor/readme.md) 
 * * **pages_demo** 
+  * * **_components-moon** 
+    * * [**moon-echarts**](files/pages_demo/_components-moon/moon-echarts/Readme.md) 
+      * * [**moon-echarts-app-h5**](files/pages_demo/_components-moon/moon-echarts/moon-echarts-app-h5/Readme.md) 
+      * * [**moon-echarts-wx**](files/pages_demo/_components-moon/moon-echarts/moon-echarts-wx/Readme.md) 
   * * [**renderjsDemo**](files/pages_demo/renderjsDemo/readme.md) 
 * * [**service**](files/service/Readme.md) 
 * * **static** 
